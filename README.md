@@ -12,7 +12,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 ## Jobs have been done.
 ### 1.
 
-![Kickstarter Table](../images/full_table.PNG)
+![Kickstarter Table](images/full_table.PNG)
 
 Using the Excel table, modify and analyze the data of 4,000 past Kickstarter projects as attempt to uncover some market trends.
 
@@ -28,7 +28,7 @@ Using the Excel table, modify and analyze the data of 4,000 past Kickstarter pro
 
 ### 2.
 
-  ![Category States](../images/cat_vs_states.PNG)
+  ![Category States](images/cat_vs_states.PNG)
 
   * Create a new sheet with a pivot table that will analyze initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
@@ -36,7 +36,7 @@ Using the Excel table, modify and analyze the data of 4,000 past Kickstarter pro
   
 ### 3.
 
-  ![Subcategory States](../images/sub_cat_vs_states.PNG)
+  ![Subcategory States](images/sub_cat_vs_states.PNG)
 
   * Create a new sheet with a pivot table that will analyze the initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
@@ -52,7 +52,7 @@ Using the Excel table, modify and analyze the data of 4,000 past Kickstarter pro
 
 ### 5.
     
-  ![Months States](../images/months_vs_states.PNG)
+  ![Months States](images/months_vs_states.PNG)
     
   * Create a new sheet with a pivot table with a column of `state`, rows of `Date Created Conversion`, values based on the count of `state`, and filters based on `parent category` and `Years`.
 
@@ -92,7 +92,7 @@ Using the Excel table, modify and analyze the data of 4,000 past Kickstarter pro
   * 45000 to 49999
   * Greater than or equal to 50000
 
-  ![Goal Outcomes](../images/Outcomes_based_on_Goal.PNG)
+  ![Goal Outcomes](images/Outcomes_based_on_Goal.PNG)
 
 * Using the `COUNTIFS()` formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the `Number Successful`, `Number Failed`, and `Number Canceled` columns with this data.
 
